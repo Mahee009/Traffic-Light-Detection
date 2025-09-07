@@ -15,6 +15,10 @@ This project detects traffic light states (Red, Yellow, Green) in real-time usin
 - NumPy
 - HSV Color Space
 
+## Demo Video  
+[Click here to watch the demo]
+  https://drive.google.com/file/d/19gtP7dX0hRSxCv3w7oAWq9x55WGiZZed/view?usp=sharing
+
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
