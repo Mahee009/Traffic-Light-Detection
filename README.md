@@ -19,6 +19,10 @@ This project detects traffic light states (Red, Yellow, Green) in real-time usin
 [Click here to watch the demo]
   https://drive.google.com/file/d/19gtP7dX0hRSxCv3w7oAWq9x55WGiZZed/view?usp=sharing
 
+## 🚀 Live Demo
+Check out the deployed app here: 
+ https://traffic-light-detection-djahavfku7yhnntmaqgsxj.streamlit.app/
+
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
